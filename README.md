@@ -6,6 +6,5 @@ A solução envolveu o uso de um bucket no Google Cloud Storage (GCS) e autentic
 Espero que esse tutorial te ajude também!
 
 ## 1 - Criando um bucket
-1.1 - Acesse o Google Cloud Storage, por meio do link (https://console.cloud.google.com/?hl=pt-br) 
-
+1.1 - Acesse o Google Cloud Storage, por meio do link (https://console.cloud.google.com/?hl=pt-br)   
 1.2 - Na barra de pesquisa procure por bucket, como mostro na imagem ![Descrição da imagem](imagens/img1.png)
