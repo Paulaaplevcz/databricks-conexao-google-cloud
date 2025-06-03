@@ -1,5 +1,4 @@
-# databricks-conexao-google-cloud
-Federation Databricks + Google Cloud Storage usando bucket e chave JSON
+# Federation Databricks + Google Cloud Storage usando bucket e chave JSON
 
 ## Resumo
 Tive recentemente o desafio de consumir dados do BigQuery no Databricks, e no processo, precisei entender como integrar os dois serviços de forma segura e eficiente.
