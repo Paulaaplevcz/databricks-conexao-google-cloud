@@ -31,7 +31,7 @@ I documented the entire process here both as a personal reference and to help ot
 
 ## 2 - Exporting the BigQuery Database
 
-2.1 - Access the BigQuery database. The one used in this example is at this link: [Base dos Dados – Medicamentos Industrializados](https://basedosdados.org/dataset/bd52ab08-9980-4831-a88c-a1ac5226ef27?table=26d8e34b-731c-4852-a838-f3f6409a07f6)
+2.1 - Access the BigQuery database. The one used in this example is at this link: [Base dos Dados – Medicamentos Industrializados](https://basedosdados.org/dataset/bd52ab08-9980-4831-a88c-a1ac5226ef27?table=26d8e34b-731c-4852-a838-f3f6409a07f6)  
 Click the three dots and select **"Query"**:
 ![Description of the image](imagens/img9.png)
 2.2 - Perform a simple SELECT to understand the table structure:
