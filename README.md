@@ -45,13 +45,14 @@ Clique nos três pontinhos e selecione "Fazer consulta" (Query):
 ![Descrição da imagem](imagens/img14.png)  
 2.6 - No canto superior direito da interface, clique no ícone de terminal (Cloud Shell). Use o seguinte comando para extrair a tabela para seu bucket:
 
-bash
+```bash
 bq extract \
   --destination_format=CSV \
   --field_delimiter="," \
   --print_header=true \
   'databricks-gcs-paula-henriques:anvisa_dados.microdados' \
   'gs://bucket_databrciks_gcs/microdados_anvisa/microdados_*.csv'
+```
 
 
 Após a execução, os arquivos devem aparecer conforme a imagem:  
