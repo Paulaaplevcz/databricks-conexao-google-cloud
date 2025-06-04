@@ -17,6 +17,8 @@ ao rolar a tela mais para baixo teremos o botão de "Criar" ![Descrição da ima
 1.8 - Após a criação será direcionado para a tela de buckets, e nela você pode fazer o upload de um arquivo, como mostro na imagem a baixo, como não é o nosso caso que queremos pegar os dados do BigQuery, iremos seguir de outra forma. ![Descrição da imagem](imagens/img8.png)  
 
 ## 2 - Puxando a base do BigQuery
-2.1 - Vá para a base do seu BigQuery, a que estou usando aqui se encotra no seguinte link (https://basedosdados.org/dataset/bd52ab08-9980-4831-a88c-a1ac5226ef27?table=26d8e34b-731c-4852-a838-f3f6409a07f6), e selecione os "3" pontinhos, selecione "Query", como mostro a baixo  ![Descrição da imagem](imagens/img9.png) 
+2.1 - Vá para a base do seu BigQuery, a que estou usando aqui se encotra no seguinte link (https://basedosdados.org/dataset/bd52ab08-9980-4831-a88c-a1ac5226ef27?table=26d8e34b-731c-4852-a838-f3f6409a07f6), e selecione os 3 pontinhos, selecione "Query", como mostro a baixo  ![Descrição da imagem](imagens/img9.png) 
 2.2 - Faça um select para ter uma noção de como é a base ![Descrição da imagem](imagens/img10.png)   
-2.3 - 
+2.3 - Vá no seu projeto e selecione os 3 pontinhos, selecione "Criar conjunto de dados" ![Descrição da imagem](imagens/img12.png)  
+2.4 - Ele vai abrir a aba lateral e você escolher o nome do seu conjunto, e selecione "Criar conjunto de dados" ![Descrição da imagem](imagens/img13.png) 
+2.5 - Após criando, vamos voltar na query inicial que fizemos e criar a nossa tabela copiando os dados da origem ![Descrição da imagem](imagens/img14.png) 
