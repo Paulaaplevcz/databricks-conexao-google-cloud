@@ -21,4 +21,4 @@ ao rolar a tela mais para baixo teremos o botão de "Criar" ![Descrição da ima
 2.2 - Faça um select para ter uma noção de como é a base ![Descrição da imagem](imagens/img10.png)   
 2.3 - Vá no seu projeto e selecione os 3 pontinhos, selecione "Criar conjunto de dados" ![Descrição da imagem](imagens/img12.png)  
 2.4 - Ele vai abrir a aba lateral e você escolher o nome do seu conjunto, e selecione "Criar conjunto de dados" ![Descrição da imagem](imagens/img13.png) 
-2.5 - Após criando, vamos voltar na query inicial que fizemos e criar a nossa tabela copiando os dados da origem ![Descrição da imagem](imagens/img14.png) 
+2.5 - Após criando, vamos voltar na query inicial que fizemos e criar a nossa tabela copiando os dados da origem, algo assim[copiar_tabela_microdados.sql](copiar_tabela_microdados.sql) como mostro na imagem ![Descrição da imagem](imagens/img14.png) 
