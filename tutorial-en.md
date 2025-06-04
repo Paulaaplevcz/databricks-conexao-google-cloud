@@ -1,9 +1,5 @@
 # Federation Databricks + Google Cloud Storage using Bucket and JSON Key
 
-**This tutorial is available in two languages:**  
-🇧🇷 [Portuguese tutorial](tutorial.pt.md)  
-🇺🇸 [English tutorial](tutorial.en.md)
-
 ---
 
 ## Summary
