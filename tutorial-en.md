@@ -55,6 +55,7 @@ bq extract \
 ```
 
 After execution, the files should appear as shown in the image:
+![Descrição da imagem](imagens/img15.png)  
 2.7 - To confirm, access the bucket again via the console:
 ![Descrição da imagem](imagens/img16.png)
 
