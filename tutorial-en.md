@@ -32,16 +32,15 @@ I documented the entire process here both as a personal reference and to help ot
 ## 2 - Exporting the BigQuery Database
 
 2.1 - Access the BigQuery database. The one used in this example is at this link: [Base dos Dados – Medicamentos Industrializados](https://basedosdados.org/dataset/bd52ab08-9980-4831-a88c-a1ac5226ef27?table=26d8e34b-731c-4852-a838-f3f6409a07f6)  
-Click the three dots and select **"Query"**:
+Click the three dots and select "Query":
 ![Description of the image](imagens/img9.png)
 2.2 - Perform a simple SELECT to understand the table structure:
 ![Description of the image](imagens/img10.png)
-2.3 - In your project, click the three dots and select **"Create dataset"**:
+2.3 - In your project, click the three dots and select "Criar conjunto de dados":
 ![Description of the image](imagens/img12.png)
-2.4 - Choose a name and click **"Create dataset"**:
+2.4 - Choose a name and click "Criar conjunto de dados":
 ![Description of the image](imagens/img13.png)
-2.5 - Go back to the query and create a new table by copying the original data. Example:
-[**copiar_tabela_microdados.sql**](copy_microdata_table.sql)
+2.5 - Go back to the query and create a new table by copying the original data. Example:[**copiar_tabela_microdados.sql**](copy_microdata_table.sql)
 ![Description of the image](imagens/img14.png)
 2.6 - In the upper right corner of the interface, click the terminal icon (Cloud Shell). Use the following command to extract the table to your bucket:
 
