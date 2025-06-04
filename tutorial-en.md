@@ -83,9 +83,9 @@ After execution, the files should appear as shown in the image:
 
 4.1 - With the account created, click on it:
 ![Description of the image](imagens/img28.png)
-4.2 - Go to the **"Keys"** tab:
+4.2 - Go to the "Chaves" tab:
 ![Description of the image](imagens/img29.png)
-4.3 - Click **"Add Key"** and select **"Create new key"**:
+4.3 - Click "Adicionar chave" and select "Criar nova chave":
 ![Description of the image](imagens/img31.png)
 4.4 - Choose the **JSON** format:
 ![Description of the image](imagens/img32.png)
@@ -101,20 +101,19 @@ After execution, the files should appear as shown in the image:
 
 5.1 - Access Databricks, go to **SQL Warehouse**, choose the desired cluster, and turn it on:
 ![Description of the image](imagens/img17.png)
-5.2 - Go to **Catalog**, click **“+”** and select **“Create a connection”**:
+5.2 - Go to **Catalog**, click “+” and select “Create a connection”:
 ![Description of the image](imagens/img19.png)
-5.3 - Choose **“Google BigQuery”** as the connection type and click **“Next”**:
+5.3 - Choose “Google BigQuery” as the connection type and click “Next”:
 ![Description of the image](imagens/img20.png)
-5.4 - In the key field, paste the content of the JSON generated in step 4.6.
-The project_id is also within the JSON. After filling it in, click **“Create a connection”**:
+5.4 - In the key field, paste the content of the JSON generated in step 4.6. The project_id is also within the JSON. After filling it in, click “Create a connection”:
 ![Description of the image](imagens/img35.png)
-5.5 - Give your catalog a name, re-enter the project_id, and click **“Test connection”**:
+5.5 - Give your catalog a name, re-enter the project_id, and click “Test connection”:
 ![Description of the image](imagens/img36.png)
-5.6 - You will be prompted to select the cluster. Remember: it must be running. Then, click **“Test”**:
+5.6 - You will be prompted to select the cluster. Remember: it must be running. Then, click “Test”:
 ![Description of the image](imagens/img37.png)
 5.7 - If the connection is successful, you'll see a screen like this:
 ![Description of the image](imagens/img38.png)
-5.8 - In the following steps (**“Access”** and **“Keys”**), just proceed by clicking **“Next”**:
+5.8 - In the following steps (“Access”** and “Keys”), just proceed by clicking “Next”:
 ![Description of the image](imagens/img39.png)
 ![Description of the image](imagens/img40.png)
 Done! Connection successfully established. 😉
