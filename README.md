@@ -76,7 +76,7 @@ Após a execução, os arquivos devem aparecer conforme a imagem:
 ![Descrição da imagem](imagens/img25.png)  
 3.6 - Clique em "Continuar":  
 ![Descrição da imagem](imagens/img26.png)  
-3.7 - Mantenha o padrão em "Principais com acesso" e conclua:  
+3.7 - Mantenha o padrão em "Principais com acesso" e conclua:
 ![Descrição da imagem](imagens/img27.png)
 
 ---
