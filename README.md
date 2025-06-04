@@ -7,5 +7,5 @@ Espero que esse tutorial te ajude também!
 
 ## 1 - Criando um bucket
 1.1 - Acesse o Google Cloud Storage, por meio do link (https://console.cloud.google.com/?hl=pt-br)   
-1.2 - Na barra de pesquisa procure por bucket, como mostro na imagem ![Descrição da imagem](imagens/imagen1.png)  
-1.3 - Selecione o bucket, e ira abrir a tela a baixo, note que, a opção "+ criar" esta desativada, vamos precisar por uma forma de pagamento (mas fique tranquilo que no final mostro como desativar) ![Descrição da imagem](imagens/imagen2.png)
+1.2 - Na barra de pesquisa procure por bucket, como mostro na imagem ![Descrição da imagem](imagens/img1.png)  
+1.3 - Selecione o bucket, e ira abrir a tela a baixo, note que, a opção "+ criar" esta desativada, vamos precisar por uma forma de pagamento (mas fique tranquilo que no final mostro como desativar) ![Descrição da imagem](imagens/img2.png)
