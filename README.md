@@ -31,8 +31,7 @@ Documentei aqui todo o processo tanto como referência pessoal quanto para apoia
 
 ## 2 - Exportando a base do BigQuery
 
-2.1 - Acesse a base no BigQuery. A utilizada neste exemplo está neste link:  
-[Base dos Dados – Medicamentos Industrializados](https://basedosdados.org/dataset/bd52ab08-9980-4831-a88c-a1ac5226ef27?table=26d8e34b-731c-4852-a838-f3f6409a07f6)  
+2.1 - Acesse a base no BigQuery. A utilizada neste exemplo está neste link: [Base dos Dados – Medicamentos Industrializados](https://basedosdados.org/dataset/bd52ab08-9980-4831-a88c-a1ac5226ef27?table=26d8e34b-731c-4852-a838-f3f6409a07f6)  
 Clique nos três pontinhos e selecione "Fazer consulta" (Query):  
 ![Descrição da imagem](imagens/img9.png)  
 2.2 - Faça um SELECT simples para entender a estrutura da tabela:  
