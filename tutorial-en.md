@@ -67,9 +67,9 @@ After execution, the files should appear as shown in the image:
 ![Description of the image](imagens/img21.png)
 3.2 - The IAM screen will look similar to this:
 ![Description of the image](imagens/img22.png)
-3.3 - In the side menu, select **"Service accounts"**:
+3.3 - In the side menu, select **"Contas de serviço"**:
 ![Description of the image](imagens/img23.png)
-3.4 - Click **"Create service account"**, choose a name, and proceed:
+3.4 - Click **"Criar conta de serviço"**, choose a name, and proceed:
 ![Description of the image](imagens/img24.png)
 3.5 - For permissions, go to **"In use"** and select **"Owner"**:
 ![Description of the image](imagens/img25.png)
