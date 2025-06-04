@@ -40,8 +40,7 @@ Clique nos três pontinhos e selecione "Fazer consulta" (Query):
 ![Descrição da imagem](imagens/img12.png)  
 2.4 - Escolha um nome e clique em "Criar conjunto de dados":  
 ![Descrição da imagem](imagens/img13.png)  
-2.5 - Volte à query e crie uma nova tabela copiando os dados da original. Exemplo:  
-[**copiar_tabela_microdados.sql**](copy_microdata_table.sql)  
+2.5 - Volte à query e crie uma nova tabela copiando os dados da original. Exemplo: [**copiar_tabela_microdados.sql**](copy_microdata_table.sql)  
 ![Descrição da imagem](imagens/img14.png)  
 2.6 - No canto superior direito da interface, clique no ícone de terminal (Cloud Shell). Use o seguinte comando para extrair a tabela para seu bucket:
 
