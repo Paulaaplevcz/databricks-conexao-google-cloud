@@ -40,7 +40,7 @@ Click the three dots and select "Query":
 ![Description of the image](imagens/img12.png)
 2.4 - Choose a name and click "Criar conjunto de dados":
 ![Description of the image](imagens/img13.png)
-2.5 - Go back to the query and create a new table by copying the original data. Example:[**copiar_tabela_microdados.sql**](copy_microdata_table.sql)
+2.5 - Go back to the query and create a new table by copying the original data. Example: [**copiar_tabela_microdados.sql**](copy_microdata_table.sql)
 ![Description of the image](imagens/img14.png)
 2.6 - In the upper right corner of the interface, click the terminal icon (Cloud Shell). Use the following command to extract the table to your bucket:
 
