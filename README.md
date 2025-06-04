@@ -47,3 +47,24 @@ para passar os dados da tabela para o nosso buket, após rodar, ele deve ficar a
 4.3 - Selecione "Adicionar chave" e selecione "Criar nova chave" ![Descrição da imagem](imagens/img31.png)
 4.4 - Ira abria a seguinte tela, deixe marcado como JSON ![Descrição da imagem](imagens/img32.png)
 4.5 - Ele automativamente fara o dowload dela no seu coputador ![Descrição da imagem](imagens/img33.png)
+4.6 - Abra o arquivo e copie todo o texto, sera algo parecido com isso ![Descrição da imagem](imagens/img34.png)
+
+## 5 - Conectando ao databricks
+Importante! Você precisa ter acesso a um databricks que permita criar cluster e inserir catalogos
+5.1 - Abra o databricks e selecione SQL Warehouse, selecione o cluster que deseja utilizar e ligue-o ![Descrição da imagem](imagens/img17.png)
+5.1 - Vá em catalogo, seleicone o "+" e selecione  "Create a connection" ![Descrição da imagem](imagens/img19.png)
+5.2 - Escolha o nome da sua conecxao, e no conection tupe procure por Google BigQuery, e selecione "next" ![Descrição da imagem](imagens/img20.png)
+5.3 - Em Google serve acoount key json vamos colar o que copiamos no ponto 4.6, e o project id podemos pegar no json tambem, nele temos um campo com isso descrito. E selecione "Create a connection" ![Descrição da imagem](imagens/img35.png)  
+5.4 - Escolha o nome pro seu catalogo, coloque novamente o prokect id e selecione, "Test connection" ![Descrição da imagem](imagens/img36.png) 
+5.5 - Ele ira abrir para selecionar o clustes (lembrando que ele precisa estar ligado"), selecione o cluster e clique em "Test" ![Descrição da imagem](imagens/img37.png) 
+5.6 - Caso a conecção seja bem sucessida, ira aparecer algo parecido com isso, ai selecione "close" ![Descrição da imagem](imagens/img38.png) 
+5.7 - Ira aparecer a tela de acessos, no meu caso so dei um "next" ![Descrição da imagem](imagens/img39.png) 
+5.8 - Nas keys tambem so coloquei um "next" ![Descrição da imagem](imagens/img40.png) 
+Prontinho conecxao feita ;)
+
+## 6 - Validação
+6.1 - va em catalog e veja se foi criado com sucesso ![Descrição da imagem](imagens/img41.png) 
+6.2 - Como aqui nosso objetivo era carregar a base full, fiz um count no databricks e no bigquery para garantirmos que estamos com a mesma quantodade de linhas 
+![Descrição da imagem](imagens/img42.png)  ![Descrição da imagem](imagens/img43.png) 
+
+
