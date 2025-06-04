@@ -106,7 +106,7 @@ Após a execução, os arquivos devem aparecer conforme a imagem:
 ![Descrição da imagem](imagens/img17.png)  
 5.2 - Vá até **Catálogo**, clique em “+” e selecione “Create a connection”:  
 ![Descrição da imagem](imagens/img19.png)  
-5.3 - Escolha “Google BigQuery” como tipo de conexão e clique em “Next”:  
+5.3 - Escolha “Google BigQuery” como tipo de conexão e clique em “Next”: 
 ![Descrição da imagem](imagens/img20.png)  
 5.4 - No campo de chave, cole o conteúdo do JSON gerado no passo 4.6.  
 O project_id também está dentro do JSON. Após preencher, clique em “Create a connection”:  
